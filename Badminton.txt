@@ -1,3 +1,4 @@
 Mon 1er fichier test concerne le badminton.
 Pour jouer, il faut :
 - une raquette
+- un volant
